@@ -2,7 +2,6 @@
 
 This is a simplified clone of Facebook page created using HTML and CSS. Please note that this project does not include any real authentication or functionality, and it is purely for educational purposes and demonstration.
 
-![Screenshot](screenshot.png)
 
 ## Features
 
